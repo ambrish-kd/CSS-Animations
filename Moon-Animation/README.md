@@ -1,4 +1,4 @@
-# Moon-Animation
+# Moon Animation
 
 ![image](https://github.com/ambrish-kd/CSS-Animations/assets/90711457/0c98e0f7-b75a-4377-b564-40ebe5553e0d)
 
